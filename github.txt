@@ -1,2 +1,2 @@
 Test code
-Void setup()
+Void draw()
